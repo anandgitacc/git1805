@@ -15,6 +15,11 @@ public class EmployeeDetails {
 		System.out.println("Employee mobile : 8939278836");
 	}
 	
+	private void empLocation() {
+		
+		System.out.println("Location: OMR");
+	}
+	
 	//                main method
 	public static void main(String[] args) {
 		
